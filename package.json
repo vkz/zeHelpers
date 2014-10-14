@@ -1,0 +1,29 @@
+{
+    "name": "zeHelpers",
+    "version": "0.0.1",
+    "description": "zeRusski little helpers",
+    "homepage": "https://github.com/vkz/zeHelpers",
+    "author": "Vlad Kozin <vladilen.kozin@gmail.com> (https://github.com/vkz)",
+    "contributors": [
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vkz/zeHelpers"
+    },
+    "main": "./helpers.js",
+    "bin": {
+    },
+    "licenses": [
+        {
+            "type": "AS IS"
+        }
+    ],
+    "dependencies": {
+        "colors": "^0.6.2",
+        "lodash": "^2.4.1"
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    }
+}
