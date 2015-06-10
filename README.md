@@ -2,11 +2,11 @@
 zeRusski's little helpers
 
 ```shell
-> npm install zeHelpers
+> npm install ze-helpers
 ```
 
 ```js
-var pp = require("zeHelpers").prettyPrint;
+var pp = require("ze-helpers").prettyPrint;
 pp(ast, {prompt: "ast"}); //where ast is some object
 
 // or you can write into a string
